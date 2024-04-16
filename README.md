@@ -8,3 +8,5 @@ accidents like minor ,sever, medium
 
 
 #### Income equality 
+It is classifier problem
+
