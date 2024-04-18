@@ -8,5 +8,6 @@ accidents like minor ,sever, medium
 
 
 #### Income equality 
-It is classifier problem
+It is classifier problem on income inequality. The data set has 209k records and 43 columns. In this data set there are many fields with string values and many numerical values.
+Some of the columns is not necessary for classification.
 
