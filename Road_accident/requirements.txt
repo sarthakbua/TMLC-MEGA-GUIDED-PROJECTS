@@ -1,0 +1,6 @@
+joblib==1.4.0
+xgboost
+scipy
+streamlit
+imblearn
+seaborn
