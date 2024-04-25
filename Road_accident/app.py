@@ -7,7 +7,7 @@ import joblib
 from xgboost import XGBClassifier
 from prediction import get_prediction, ordinal_encoder
 
-model = joblib.load(r'EDA/RTA/Model/xtr_final.joblib')
+model = joblib.load(r'Road_accident/xtr_final.joblib')
 
 st.set_page_config(page_title="Accident Severity Prediction", layout="wide")
 
