@@ -4,7 +4,7 @@ In this program they will touch upon data exploration, data mamgement and make r
 
 ### Guided RTA analysis
 This data contains traffic related data like driver details , road condition , days weather etc, task is to build classification model to predict 
-accidents like minor ,sever, medium 
+accidents like minor ,sever, medium. This code has special emphasis on  data analysis
 
 
 ### Income equality 
